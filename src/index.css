@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+
+}
+.game {
+  text-align: center;
+
+}
+.square {
+  border: 1px solid black;
+
+}
